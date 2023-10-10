@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  "name": "restcountriesfe",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "Pavle",
+  "license": "ISC",
+  "description": ""
+}
